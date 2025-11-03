@@ -1,0 +1,21 @@
+ID,Fecha,Sucursal,Producto,Cantidad,PrecioUnitario,Total,Vendedor
+1,2024-05-01,CDMX,Laptop,2,12000,24000,Luis
+2,2024-05-02,Guadalajara,Teclado,5,500,2500,Ana
+3,2024-05-03,  Monterrey  ,Monitor,3,2500,7500,Luis
+4,2024-05-03,cdmx,Mouse,4,300,1200,
+5,2024-05-04,Guadalajara,Teclado,,,550,Ana
+6,2024-05-05,CDMX,Laptop,1,12000,12000,Pedro
+7,2024-05-06,  monterrey,Mouse,10,300,3000,Ana
+8,2024-05-07,Guadalajara,Monitor,2,2500,5000,Luis
+9,2024-05-08,cdmx,Teclado,8,500,4000,
+10,2024-05-09,CDMX,Mouse,15,300,4500,Pedro
+11,2024-05-10,Monterrey,Laptop,1,12000,12000,Ana
+12,2024-05-11,guadalajara,Monitor,4,2500,10000,Luis
+13,2024-05-12,CDMX,Teclado,6,500,3000,Pedro
+14,2024-05-13,  CDMX  ,Mouse,20,300,6000,Ana
+15,2024-05-14,Monterrey,Laptop,2,12000,24000,Luis
+16,2024-05-15,Guadalajara,Teclado,10,500,5000,
+17,2024-05-16,cdmx,Monitor,3,2500,7500,Pedro
+18,2024-05-17,CDMX,Mouse,12,300,3600,Ana
+19,2024-05-18,Monterrey,Laptop,1,12000,12000,Luis
+20,2024-05-19,Guadalajara,Teclado,7,500,3500,Pedro
